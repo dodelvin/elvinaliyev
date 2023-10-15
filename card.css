@@ -1,0 +1,84 @@
+body {
+    background-image: url(forest-3119826.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+  
+  .info-card {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+    width: fit-content;
+    margin: auto;
+  }
+  
+  .profile-picture {
+    width: 200px;
+    height: 200px;
+    border: 3px black dotted;
+    border-radius: 50%;
+  }
+  
+  .card-header {
+  }
+  
+  h2 {
+    font-size: 35px;
+  }
+  
+  .card-header h2 span {
+    color: red;
+  }
+  
+  h2 p {
+    font-size: 25px;
+  }
+  
+  .first-hr {
+    border: none;
+    height: 1px;
+    width: 100%;
+    background:url(http://wp1.themexlab.com/wp/cards/wp-content/themes/cards/img/hr1.png) no-repeat center center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }  
+  
+  .about {
+    width: 425px;
+    margin-bottom: 30px;
+  }
+  .contact-button p {
+    color: white;
+  }
+    
+  
+  .contact-button {
+    background-color: blue;
+    border: 2px solid white;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  
+  .contact-button:hover {
+    background-color: blueviolet;
+  }
+  
+  .contacts a{
+    background-color: blue;
+    padding: 8px;  
+    border-radius: 6px; 
+}
+  
+.contacts a:hover{
+    background-color: blueviolet;
+}
+  
+.contacts a i{
+    width:20px;
+ }
