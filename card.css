@@ -1,5 +1,5 @@
 body {
-    background-image: url(forest-3119826.jpg);
+    background-image: url("bg.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -43,7 +43,7 @@ body {
     border: none;
     height: 1px;
     width: 100%;
-    background:url(http://wp1.themexlab.com/wp/cards/wp-content/themes/cards/img/hr1.png) no-repeat center center;
+    background:url("http://wp1.themexlab.com/wp/cards/wp-content/themes/cards/img/hr1.png") no-repeat center center;
     margin-top: 10px;
     margin-bottom: 10px;
   }  
